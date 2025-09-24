@@ -9,3 +9,11 @@ Alert System: Automatically detects abnormal vitals using threshold-based logic.
 Interactive Dashboard: Displays live charts and alert classifications.
 Multi-Patient Monitoring: Tracks multiple patients simultaneously.
 Deployment-Ready: Runs in Google Colab with Dash and Plotly.
+
+| Technology    | Purpose                             |
+| ------------- | ----------------------------------- |
+| Python        | Core programming language           |
+| Pandas        | Data processing                     |
+| Plotly / Dash | Interactive dashboard visualization |
+| Threading     | Real-time data simulation           |
+| Google Colab  | Execution environment               |
